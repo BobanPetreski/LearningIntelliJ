@@ -46,6 +46,8 @@ public class Account {
         String name = "KlaraCvetanoska";
 
         System.out.println("learning how to push our changes");
+
+        System.out.println("Pushing changes using git bash");
     }
 }
 
