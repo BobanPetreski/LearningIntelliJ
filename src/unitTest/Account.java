@@ -43,6 +43,7 @@ public class Account {
 
         System.out.println("Learning GIT");
 
+        String name = "KlaraCvetanoska";
 
 
     }
