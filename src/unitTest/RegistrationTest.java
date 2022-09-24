@@ -6,5 +6,7 @@ public class RegistrationTest {
 
         System.out.println("Learning Git");
 
+        System.out.println("add new code");
+
     }
 }
