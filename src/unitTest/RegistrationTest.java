@@ -8,5 +8,6 @@ public class RegistrationTest {
 
         System.out.println("add new code");
 
+        int b = 7;
     }
 }
